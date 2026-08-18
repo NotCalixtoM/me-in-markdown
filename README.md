@@ -15,6 +15,9 @@ As a person I have many interests and I casually partake in such as consuming me
 
 Though there are some outliers that I like, I truly <u>**love**</u> playing fighting games. Something is just so satisfying to me about the concept of how something can both resemble a sport in mentality and excecution/preformance, but also show deep complexety, need for knowledge, and positional knowledge like a game like chess. My current love is the game Super Smash Bros. Melee which I've been going to tournaments for and pracicing for the past 2-3 years. I play the Ice Climbers and there is just something so **absolutely magical** about how the game functions, the pace of the game, the amount of skill expression, and the sheer freedom that the system provides. So far I haven't been globally or regionally ranked yet(SoCal is one of the strongest regions so it's hard to get ranked), but I've taken sets in tournament vs many regionally and globally ranked players along with a win against a top ten level player. Here is my page on a page on a data site for fighting games which displays some of my accievements and journey in the game so far: https://www.supermajor.gg/melee/player/SaltInYourEye?id=S4110509
 
+From,
+Calixto Murakawa
+
 # [Click here for some songs that I've been listening to this summer!](https://music.apple.com/us/playlist/me-in-markdown/pl.u-8aAVXDVTvkkevb4)
 
 ![Black licorice](Images/blackLicorice.jpg)
